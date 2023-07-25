@@ -1,0 +1,10 @@
+* cl-sandbox
+
+Utility package for creating safe experimental environment.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/MatthewRock/cl-sandbox.git   |
+| commit  | 148e35e  |
+| systems | cl-sandbox |
+|---------+-------------------------------------------|
+
